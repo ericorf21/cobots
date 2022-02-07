@@ -1,4 +1,6 @@
 -- Command List --
+
+
 • !baris
 Untuk memerintahkan bot baris.
 
