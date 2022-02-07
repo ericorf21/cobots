@@ -1,30 +1,30 @@
 -- Masukkan list bot
 bot = {
-	"semble1",
-	"semble2",
-	"semble3",
-    "semble4",
-    "semble5",
-    "semble6",
-	"semble7",
-	"semble8",
-    "semble9",
-    "semble10",
-    "semble11",
-    "semble12",
-	"semble13",
-    "semble14",
-    "semble15",
-	"semble16",
-	"semble17",
-    "semble18",
-    "semble19",
-	"semble20",
-    "semble21",
-    "semble22",
-    "semble23",
-	"semble24",
-	"semble25" }
+	"COOBOTS1",
+	"COOBOTS2",
+	"COOBOTS3",
+    "COOBOTS4",
+    "COOBOTS5",
+    "COOBOTS6",
+	"COOBOTS7",
+	"COOBOTS8",
+    "COOBOTS9",
+    "COOBOTS10",
+    "COOBOTS11",
+    "COOBOTS12",
+	"COOBOTS13",
+    "COOBOTS14",
+    "COOBOTS15",
+	"COOBOTS16",
+	"COOBOTS17",
+    "COOBOTS18",
+    "COOBOTS19",
+	"COOBOTS20",
+    "COOBOTS21",
+    "COOBOTS22",
+    "COOBOTS23",
+	"COOBOTS24",
+	"COOBOTS25" }
 jumlah = 25  --jumlah bot
 
 function placeTile(x,y,id)
@@ -180,14 +180,14 @@ end
 addHook('OnVarlist', 'cmd', hook)
 update = false
 duar = false
-sendPacket("action|input\n|text|SC PNB Sudah Aktif Ngabb, `1Haikal Growtopia `0~ `8WA: 0895 3177 0323", 2)
+sendPacket("action|input\n|text|SC PNB Sudah Aktif Masseh, `1Icooo Growtopia", 2)
 mode = ""
 mode1 = false
 mode2 = false
 mode3 = false
 
-message = "Bariss?? Ngokeh..."
-message2 = "Disinikah?? Ngokeh..."
+message = "Bariss?? Siap Bang Icooo"
+message2 = "Disinikah?? Siap Bang Icoo"
 
 
 
