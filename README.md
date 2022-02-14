@@ -1,4 +1,4 @@
--- Command List --
+-- Command List PNB --
 
 
 • !baris
@@ -22,3 +22,23 @@ Untuk memulai pnb.
 
 • !stoppnb
 Untuk stop pnb.
+
+
+-- Comand List Retrieve --
+
+•  !gems 
+Untuk Mengecek Jumlah Gems
+
+• !setid(buat gaut)
+Untuk Set Id Block yang akan di Retrieve
+
+• !dblock (id block nya)
+Untuk Set Id Patokan
+
+• !start
+Untuk Memulai Auto Retrieve
+
+• !stop
+Untuk mengakhiri Auto Retrieve
+
+
