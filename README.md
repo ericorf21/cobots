@@ -42,3 +42,6 @@ Untuk Memulai Auto Retrieve
 Untuk mengakhiri Auto Retrieve
 
 
+N91NL-KHR5C
+3QRV8-01PZ5
+Note: You will register app with license. 1 License = 1 Device.
